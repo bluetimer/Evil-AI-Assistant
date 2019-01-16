@@ -1,0 +1,168 @@
+.container1 {
+    position: relative;
+    width: 900px;
+    height:900px;
+    border: 1px solid black;
+    
+}
+.container6 , .container1 , .container5 , .container4 {
+    font-size: 30px;
+}
+body {
+    background: url("https://i.imgur.com/JdiKIK5.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pizza {
+    color: white;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border-style: solid;
+    border-color: red;
+    width: 50px;
+    height: 50px;
+    padding: 100px;
+}
+#door {
+    color: white;
+    position: absolute;
+    right: 00px;
+    top:0px;
+    border-style: solid;
+    border-color: brown;
+    width: 50px;
+    height: 50px;
+    padding: 100px;
+}
+#nine {
+    color: white;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    border-style: solid;
+    border-color: blue;
+    width: 50px;
+    height: 50px;
+    padding: 100px;
+}
+#logo {
+    background-image: url(https://images.all-free-download.com/images/graphiclarge/vector_red_background_eye_icon_280841.jpg);
+    background-size: 300px 300px;
+    color: black;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    position: absolute;
+    left: 325px;
+    bottom: 300px;
+    border-style: solid;
+    border-color: green;
+    width: 250px;
+    height:250px;
+    padding: 00px;
+    border-radius: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+#alarm {
+    color: white;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-style: solid;
+    border-color: yellow;
+    width: 50px;
+    height: 50px;
+    padding: 100px;
+
+}
+#joke{
+    color: white;
+    position: absolute;
+    left: 0px;
+    bottom: 300px;
+    border-style: solid;
+    border-color: purple;
+    width: 50px;
+    height: 50px;
+    padding: 100px;
+}
+#light {
+    color: white;
+    position: absolute;
+    right: 0px;
+    top: 300px;
+    border-style: solid;
+    border-color: pink;
+    width: 50px;
+    height: 50px;
+    padding: 100px;
+}
+
+#Derp {
+    display: none;
+    position: absolute;
+    left: 0px;
+    top: 16px;
+    border-style: solid;
+    border-color: red;
+    width: 250px;
+    height: 250px;
+}
+
+#exploding {
+    color: white;
+    display: none;
+    position: absolute;
+    right: 0px;
+    top: 15px;
+    border-style: solid;
+    border-color: brown;
+    width: 250px;
+    height: 250px;
+}
+#yolk {
+    color: white;
+    display: none;
+    position: absolute;
+    left: 0px;
+    bottom: 300px;
+    border-style: solid;
+    border-color: purple;
+    width: 250px;
+    height: 250px;
+}
+#lit {
+    color: white;
+    display: none;
+    position: absolute;
+    right: 0px;
+    top: 300px;
+    border-style: solid;
+    border-color: pink;
+    width: 250px;
+    height: 250px;
+}
+#twelve {
+    
+    color: white;
+    display: none;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-style: solid;
+    border-color: yellow;
+    width: 250px;
+    height: 250px;
+}
+#car {
+    color: white;
+    display: none;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    border-style: solid;
+    border-color: blue;
+    width: 250px;
+    height: 250px;
+}
